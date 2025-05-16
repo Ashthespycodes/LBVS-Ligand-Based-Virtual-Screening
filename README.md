@@ -92,7 +92,6 @@ The compound library should be in `.xlsx` format with the following columns:
 **Akhilesh Bhute**  
 B.Tech CSE – Manipal University Jaipur  
 Email: bhuteakhilesh@gmail.com  
-GitHub: [Your GitHub link if any]
 
 ---
 
